@@ -25,7 +25,7 @@ MovieExplorer is a modern web application built with **React** that allows users
 
 ## 🖼 Screenshots
 
-_(Insert screenshots of your app here)_
+![Home](https://raw.githubusercontent.com/maximuseduard/react-movies/refs/heads/main/public/home.png)
 
 ---
 
